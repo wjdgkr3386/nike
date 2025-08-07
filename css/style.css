@@ -58,7 +58,6 @@ header {
   top: 0px;
   left: -420px;
   background-image: url("sky.png");
-  transform: skewX(-40deg);
 }
 
 /* 1depth*/
@@ -91,7 +90,6 @@ header {
 }
 #gnb em {
   display: inline-block;
-  transform: skewX(40deg) !important;
 }
 #gnb em i {
   margin-right: 20px;
@@ -199,7 +197,6 @@ header {
   right: -800px;
   background: #111;
   opacity: 0.5;
-  transform: skewX(-40deg);
   transition: all 0.5s;
 }
 #side:hover {
@@ -232,7 +229,6 @@ header {
   display: inline-block;
   font: bold 16px/1.7 arial;
   color: #a0bd50;
-  transform: skewX(40deg);
 }
 #side .con p img {
   width: 300px;
@@ -270,7 +266,6 @@ header {
   bottom: 40px;
   left: 100px;
   color: #b9fb05;
-  transform: skewX(40deg);
 }
 #side:hover .btnContents {
   left: 700px;
