@@ -57,7 +57,7 @@ header {
   position: fixed;
   top: 0px;
   left: -420px;
-  background: linear-gradient(-45deg, #e6fc55, #b9fb05, #97e031);
+  background-image: url("sky.png");
   transform: skewX(-40deg);
 }
 
